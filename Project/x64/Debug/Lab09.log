@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\VSProj\Lab09\Lab09\main.cpp(193,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Lab09.vcxproj -> D:\VSProj\Lab09\x64\Debug\Lab09.exe
